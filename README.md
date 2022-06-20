@@ -10,5 +10,5 @@ The data contain within the file are from various stocks. We have two tabs which
 
 Each year contains ticker, date, volume, open/ close trading, high/low trading, and the adjusted close trading of each stock. The name of the stock is listed as the Stock Trading name. It would be a good idea to include a reference sheet for Steve, when he analyzes our data. Two macro-enable buttons are included to produce/clear the refactor code.This will help Steve loop through his stock data for his analysis. 
 
-![MacoButtons](https://github.com/LindsayTeeters/Week-2--Excel-VBA/blob/main/Resources/MacroButtons.PNG)   ![2017Popup](https://github.com/LindsayTeeters/Week-2--Excel-VBA/blob/main/Resources/2017%20pop%20up.PNG)
+![MacoButtons](https://github.com/LindsayTeeters/Week-2--Excel-VBA/blob/main/Resources/MacroButtons.PNG) <br>   ![2017Popup](https://github.com/LindsayTeeters/Week-2--Excel-VBA/blob/main/Resources/2017%20pop%20up.PNG) </br>
 
